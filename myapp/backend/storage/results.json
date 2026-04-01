@@ -1,0 +1,102 @@
+{
+  "Rom@example.com": [
+    {
+      "_id": "result_1770913930768",
+      "userId": "Rom@example.com",
+      "courseId": 4,
+      "courseName": "SQL & Databases",
+      "score": 0,
+      "totalQuestions": 12,
+      "percentage": 0,
+      "answers": [
+        {
+          "questionId": 1,
+          "question": "What does SQL stand for?",
+          "selectedAnswer": "Standard Query Language",
+          "correctAnswer": "Structured Query Language",
+          "isCorrect": false
+        },
+        {
+          "questionId": 2,
+          "question": "Which command is used to retrieve data?",
+          "selectedAnswer": "GET",
+          "correctAnswer": "SELECT",
+          "isCorrect": false
+        },
+        {
+          "questionId": 3,
+          "question": "What is a primary key?",
+          "selectedAnswer": "First column",
+          "correctAnswer": "Unique identifier",
+          "isCorrect": false
+        },
+        {
+          "questionId": 4,
+          "question": "What is normalization?",
+          "selectedAnswer": "Data organization",
+          "correctAnswer": "Both",
+          "isCorrect": false
+        },
+        {
+          "questionId": 5,
+          "question": "Which SQL join returns all rows from left table?",
+          "selectedAnswer": "INNER JOIN",
+          "correctAnswer": "LEFT JOIN",
+          "isCorrect": false
+        },
+        {
+          "questionId": 6,
+          "question": "What is a foreign key?",
+          "selectedAnswer": "Column in another table",
+          "correctAnswer": "Both",
+          "isCorrect": false
+        },
+        {
+          "questionId": 7,
+          "question": "What does INSERT do?",
+          "selectedAnswer": "Updates data",
+          "correctAnswer": "Adds new record",
+          "isCorrect": false
+        },
+        {
+          "questionId": 8,
+          "question": "What is an index in database?",
+          "selectedAnswer": "Table of contents",
+          "correctAnswer": "Speeds up queries",
+          "isCorrect": false
+        },
+        {
+          "questionId": 9,
+          "question": "What is the difference between WHERE and HAVING?",
+          "selectedAnswer": "HAVING is SQL only",
+          "correctAnswer": "WHERE filters rows, HAVING filters groups",
+          "isCorrect": false
+        },
+        {
+          "questionId": 10,
+          "question": "What does GROUP BY do?",
+          "selectedAnswer": "Sorts data",
+          "correctAnswer": "Groups rows with same values",
+          "isCorrect": false
+        },
+        {
+          "questionId": 11,
+          "question": "What is a transaction in SQL?",
+          "selectedAnswer": "Single query",
+          "correctAnswer": "Series of operations as unit",
+          "isCorrect": false
+        },
+        {
+          "questionId": 12,
+          "question": "What does ORDER BY do?",
+          "selectedAnswer": "Groups data",
+          "correctAnswer": "Sorts results",
+          "isCorrect": false
+        }
+      ],
+      "duration": 0,
+      "status": "failed",
+      "createdAt": "2026-02-12T16:32:10.768Z"
+    }
+  ]
+}
