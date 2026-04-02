@@ -1,4 +1,4 @@
-const API_URL = 'https://saranya-backend.onrender.com/api/results';
+const API_URL = 'http://localhost:5000/api/results';
 
 // Helper function to get auth headers
 const getAuthHeaders = () => {

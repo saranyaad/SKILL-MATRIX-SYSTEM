@@ -1,4 +1,4 @@
-const API_URL = 'https://saranya-backend.onrender.com/api/auth';
+const API_URL = 'http://localhost:5000/api/auth';
 
 // Helper function to get auth token from localStorage
 const getToken = () => {
